@@ -121,3 +121,6 @@ ALTER TABLE employees ADD COLUMN email VARCHAR(255);
 DROP TABLE employees;
 ```
 #### Screenshots taken from SQLBolt.com
+
+![Database](./sql-assets/1.jpg)
+
