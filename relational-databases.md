@@ -123,4 +123,21 @@ DROP TABLE employees;
 #### Screenshots taken from SQLBolt.com
 
 ![Database](./sql-assets/1.jpg)
-
+![Database](./sql-assets/2.jpg)
+![Database](./sql-assets/3.jpg)
+![Database](./sql-assets/4.jpg)
+![Database](./sql-assets/5.jpg)
+![Database](./sql-assets/6.jpg)
+![Database](./sql-assets/7.jpg)
+![Database](./sql-assets/8.jpg)
+![Database](./sql-assets/9.jpg)
+![Database](./sql-assets/10.jpg)
+![Database](./sql-assets/11.jpg)
+![Database](./sql-assets/12.jpg)
+![Database](./sql-assets/13.jpg)
+![Database](./sql-assets/14.jpg)
+![Database](./sql-assets/15.jpg)
+![Database](./sql-assets/16.jpg)
+![Database](./sql-assets/17.jpg)
+![Database](./sql-assets/18.jpg)
+![Database](./sql-assets/19.jpg)
