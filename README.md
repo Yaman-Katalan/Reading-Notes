@@ -40,4 +40,3 @@ Greetings, I'm Mohamed Yaman Katalan, and I'm currently on the path to becoming 
 - **Continuous Integration/Continuous Deployment (CI/CD)**: Automating software delivery pipelines.
 - **Security in Software Development**: Implementing best practices for securing applications and data.
 
-This information is presented in Markdown format within a README file.
