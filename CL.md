@@ -28,7 +28,7 @@ Manual pages provide comprehensive guidance on command usage and available argum
 - **mv**: Moves or renames files/directories. Can effectively rename within the same directory.
 - **rm**: Removes files or directories. Supports options like -r (recursive removal).
 
-### Summary
+### Cheat Sheet
 
 - **Navigation**: Use PWD to check the current directory. Paths can be absolute or relative.
 - **File System**: Everything is a file, Linux is extensionless and case-sensitive.
