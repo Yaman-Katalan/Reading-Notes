@@ -1,3 +1,7 @@
+# Reading Notes
+
+## Curriculum Overview (Python Software)
+
 ## Code 102 - Intro to Software Development
 - **HTML Basics**: Comprehending the architecture of web pages.
 - **CSS Fundamentals**: Styling and designing web pages.
