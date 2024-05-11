@@ -12,3 +12,5 @@ Greetings, I'm Mohamed Yaman Katalan, and I'm currently on the path to becoming 
   2. [Importance of Growth Mindset](mindset.md)
 
   3. [Relational Databases](relational-databases.md)
+ 
+  4. [Command Line Basics](CL.md)
