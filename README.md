@@ -7,7 +7,7 @@ Greetings, I'm Mohamed Yaman Katalan, and I'm currently on the path to becoming 
 - Phone: +962798683074
 
   ## Links
-  ![Road Map](./roadMap.md)
+  [Road Map](roadmap.md)
 
 ## Code 102 - Intro to Software Development
 - **HTML Basics**: Comprehending the architecture of web pages.
