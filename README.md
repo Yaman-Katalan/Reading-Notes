@@ -1,6 +1,6 @@
 # Reading Notes
 
-Greetings, I'm Mohamed Yaman Katalan, and I'm currently on the path to becoming a Full-Stack web developer. I've chosen Python as my primary language for web development due to its enjoyable nature and versatility.
+Greetings, I'm Mohamed Yaman Katalan, and I'm currently on the path to becoming a Full-Stack web developer. I've chosen Python for web development due to its enjoyable nature and versatility.
 
 ## Contact Information
 - Email: yamankatalan@gmail.com
