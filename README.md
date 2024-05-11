@@ -7,6 +7,8 @@ Greetings, I'm Mohamed Yaman Katalan, and I'm currently on the path to becoming 
 - Phone: +962798683074
 
   ## Links
-  1.[Road Map](roadmap.md)
+  1. [Road Map](roadmap.md)
   
-  2.[Mindset](mindset.md)
+  2. [Importance of Growth Mindset](mindset.md)
+
+  3. [Relational Databases](relational-databases.md)
