@@ -1,4 +1,6 @@
-# Mindset: Importance of Growth Mindset in Web Development
+# Reading Notes
+
+## Mindset: Importance of Growth Mindset in Web Development
 
 Understanding the concept of a growth mindset holds significant importance in the realm of web development. It profoundly shapes how individuals approach learning, problem-solving, and skill development, particularly in a field as dynamic as web development, where technologies evolve rapidly.
 
