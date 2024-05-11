@@ -1,3 +1,5 @@
+# Reading Notes
+
 ### Summary of SQL Concepts and Operations
 
 #### Introduction to SQL
