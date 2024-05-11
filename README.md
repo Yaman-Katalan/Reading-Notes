@@ -6,11 +6,11 @@ Greetings, I'm Mohamed Yaman Katalan, and I'm currently on the path to becoming 
 - Email: yamankatalan@gmail.com
 - Phone: +962798683074
 
-  ## Links
-  1. [Road Map](roadmap.md)
+## Links
+1. [Road Map](roadmap.md)
   
-  2. [Importance of Growth Mindset](mindset.md)
+2. [Importance of Growth Mindset](mindset.md)
 
-  3. [Relational Databases](relational-databases.md)
+3. [Relational Databases](relational-databases.md)
  
-  4. [Command Line Basics](CL.md)
+4. [Command Line Basics](CL.md)
